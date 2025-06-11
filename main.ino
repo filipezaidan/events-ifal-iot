@@ -28,7 +28,7 @@ const char *ssid = "Zaidan";
 const char *password = "99389324";
 
 // Google Apps Script URL (without RFID parameter)
-const char *scriptBaseURL = "https://script.google.com/macros/s/AKfycbw58OY-XikOdz5wCASy4eUlt4DgW9lHKP55Ay5lqaao2Ex7NOmOlWOQCF-zeuP6vjGcvQ/exec?rfid=";
+const char *scriptBaseURL = "https://script.google.com/macros/s/AKfycbx97490LhG6htLxIFJaQvbfr-57IO5QK59ohKeBkUo1C0D0wqqbKExHJfM0OrAz4cEmbQ/exec?rfid=";
 
 // System icons
 static const unsigned char PROGMEM wifi_icon[] = {
